@@ -12,14 +12,14 @@
 			containerPortal = 07D4D2512E0E2D2A00E23255 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 07D4D2582E0E2D2A00E23255;
-			remoteInfo = "Finance Tracker";
+			remoteInfo = FinanceTracker;
 		};
 		07D4D2712E0E2D2C00E23255 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 07D4D2512E0E2D2A00E23255 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 07D4D2582E0E2D2A00E23255;
-			remoteInfo = "Finance Tracker";
+			remoteInfo = FinanceTracker;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -30,19 +30,19 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		07D4D25B2E0E2D2A00E23255 /* Finance Tracker */ = {
+		07D4D25B2E0E2D2A00E23255 /* FinanceTracker */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Finance Tracker";
+			path = FinanceTracker;
 			sourceTree = "<group>";
 		};
-		07D4D2692E0E2D2B00E23255 /* Finance TrackerTests */ = {
+		07D4D2692E0E2D2B00E23255 /* FinanceTrackerTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Finance TrackerTests";
+			path = FinanceTrackerTests;
 			sourceTree = "<group>";
 		};
-		07D4D2732E0E2D2C00E23255 /* Finance TrackerUITests */ = {
+		07D4D2732E0E2D2C00E23255 /* FinanceTrackerUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Finance TrackerUITests";
+			path = FinanceTrackerUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,9 +75,9 @@
 		07D4D2502E0E2D2A00E23255 = {
 			isa = PBXGroup;
 			children = (
-				07D4D25B2E0E2D2A00E23255 /* Finance Tracker */,
-				07D4D2692E0E2D2B00E23255 /* Finance TrackerTests */,
-				07D4D2732E0E2D2C00E23255 /* Finance TrackerUITests */,
+				07D4D25B2E0E2D2A00E23255 /* FinanceTracker */,
+				07D4D2692E0E2D2B00E23255 /* FinanceTrackerTests */,
+				07D4D2732E0E2D2C00E23255 /* FinanceTrackerUITests */,
 				07D4D25A2E0E2D2A00E23255 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -108,7 +108,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				07D4D25B2E0E2D2A00E23255 /* Finance Tracker */,
+				07D4D25B2E0E2D2A00E23255 /* FinanceTracker */,
 			);
 			name = "Finance Tracker";
 			packageProductDependencies = (
@@ -131,7 +131,7 @@
 				07D4D2682E0E2D2B00E23255 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				07D4D2692E0E2D2B00E23255 /* Finance TrackerTests */,
+				07D4D2692E0E2D2B00E23255 /* FinanceTrackerTests */,
 			);
 			name = "Finance TrackerTests";
 			packageProductDependencies = (
@@ -154,7 +154,7 @@
 				07D4D2722E0E2D2C00E23255 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				07D4D2732E0E2D2C00E23255 /* Finance TrackerUITests */,
+				07D4D2732E0E2D2C00E23255 /* FinanceTrackerUITests */,
 			);
 			name = "Finance TrackerUITests";
 			packageProductDependencies = (
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 07D4D2542E0E2D2A00E23255 /* Build configuration list for PBXProject "Finance Tracker" */;
+			buildConfigurationList = 07D4D2542E0E2D2A00E23255 /* Build configuration list for PBXProject "FinanceTracker" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -521,7 +521,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		07D4D2542E0E2D2A00E23255 /* Build configuration list for PBXProject "Finance Tracker" */ = {
+		07D4D2542E0E2D2A00E23255 /* Build configuration list for PBXProject "FinanceTracker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				07D4D2782E0E2D2C00E23255 /* Debug */,
