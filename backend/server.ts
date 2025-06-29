@@ -4,6 +4,7 @@ import signupRouter from './routes/signup';
 import mongoose from 'mongoose';
 import loginRouter from './routes/login';
 import deleteAccountRouter from './routes/deleteAccount'
+import budgetHandler from './routes/budgetHandler';
 
 dotenv.config();
 
@@ -28,7 +29,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/api/signup', signupRouter);
 app.use('/api/login', loginRouter);
 app.use('/api/delete', deleteAccountRouter)
+app.use('/api/budget', budgetHandler);
 
-app.listen(3000, () => {
+app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
 });

@@ -1,5 +1,5 @@
 import express from "express";
-import deleteAccountController from '../controllers/deleteUser';
+import deleteAccountController from '../controllers/deleteAccount';
 
 const router = express.Router();
 
