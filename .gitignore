@@ -48,3 +48,6 @@ coverage/
 # Build directories
 build/
 dist/
+
+# VS Code
+.vscode/
